@@ -1,6 +1,6 @@
 local gameId = game.GameId
 local supportedGameIds = {
-    155615604 -- Prison Life
+    73885730 -- Prison Life
 }
 
 if table.find(supportedGameIds, gameId) then
