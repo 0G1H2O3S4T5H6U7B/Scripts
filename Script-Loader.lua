@@ -1,4 +1,4 @@
-local gameId = game.GameId
+local gameId = game.gameId
 local supportedGameIds = {
     73885730 -- Prison Life
 }
